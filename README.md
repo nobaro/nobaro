@@ -6,7 +6,7 @@ Interesting facts about me:
 - 📝 I regularly write articles on Medium
 - 📫 How to reach me: [Email](justinedijala@yahoo.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love music, movies, football, tennis and I play Chess
+- ⚡ Fun fact: I love music, movies, football, tennis and I play chess
 <!--
 **nobaro/nobaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
