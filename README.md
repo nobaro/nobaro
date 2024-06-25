@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋 My name is Justin Nobaro Edijala
+#### **I am a Data Analyst**
+Interesting facts about me:
+- I gather, standardize, and extensively analyze complex datasets to extract actionable insights that effectively solve complex business problems.
+- 
 <!--
 **nobaro/nobaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
