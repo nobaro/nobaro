@@ -1,3 +1,4 @@
+![MasterHead](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)
 ## Hi there 👋 My name is Justin Nobaro Edijala
 ### **I am a Data Analyst**
 Interesting facts about me:
