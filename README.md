@@ -3,6 +3,7 @@
 Interesting facts about me:
 - 🔭 I gather, standardize, and extensively analyze complex datasets to extract actionable insights that effectively solve complex business problems.
 - 💬 Ask me about anything relating to Data Analytics
+- 🌱 I'm currently learning SQL & PowerBI
 - 📝 I regularly write articles on Medium
 - 📫 How to reach me: [Email](justinedijala@yahoo.com)
 - 😄 Pronouns: he/him
