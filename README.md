@@ -2,7 +2,7 @@
 ## Hi there 👋 My name is Justin Nobaro Edijala
 ### **I am a Data Analyst**
 Interesting facts about me:
-- 🔭 I gather, standardize, and extensively analyze complex datasets to extract actionable insights that effectively solve complex business problems.
+- 🔭 I gather, standardize, and extensively analyze complex datasets to extract <br> actionable insights that effectively solve complex business problems.
 - 💬 Ask me about anything relating to Data Analytics
 - 🌱 I'm currently learning SQL & PowerBI
 - 📝 I regularly write articles on Medium
