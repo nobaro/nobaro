@@ -1,5 +1,5 @@
 ![MasterHead](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)
-## Hi there 👋 My name is Justin Nobaro Edijala
+## Hi there 👋 My name is Samuel Nobaro Michael-Edijala
 ### **I am a Data Analyst**
 Interesting facts about me:
 - 🔭 I gather, standardize, and extensively analyze complex datasets to extract <br> actionable insights that effectively solve complex business problems.
